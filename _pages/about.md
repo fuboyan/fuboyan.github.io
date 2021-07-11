@@ -8,16 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<!-- About me
+ Biography
 ======
-Hiya, I'm a doctoral student at the Nanjing University, China, currently majoring in Optics and Photonics in [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  led by  [Prof. Zhu Shining](http://slab.nju.edu.cn/teamdetail.aspx?id=16) and advised by  [Prof. Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
+Boyan Fu received her B.S. degree in Physics from Guangxi University，China, in 2020. She is now a M.S. student majoring in Optics at the National Laboratory of Solid State Microstructures, School of Physics at Nanjing University, advised by [*Prof*. Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html). She is now engaged in the research on Nanophotonics based on Metalenses for Hyperspectral imaging.
 
-
-<p align = "justify">My research interests mainly focus on the field of Nanophotonics, specifically the physical mechanism of metasurface, multifunctional meta-device design, Metalenses design for imaging. In parallel, I also work on optical manipulation based on metasurface with Dr. Xiaohao Xu (Jinan Univ., Guangzhou) and Prof. Shaohui Yan (XIOPM, CAS), and expected to study something new in classic and quantum physics.</p>
-
-<p align = "justify">Also, I've previously participated in different research areas with Prof. Houjun Lü (Guangxi Univ.) on High Energy Astrophysics and with Prof. Xuemin Zhang (Wuhan. Univ.) on optical gauge as well as precise alignment of interferometers.</p>
-
-<p align = "justify">I'm honored to be selected as an 'Outstanding Speaker' in 2nd National Academic Forum on Photonics Technology and Awarded Second Prize of Presentation Contest in The 1st 'Light & Future' National Graduate Academic Forum.</p>
 
 <!-- __Update: I will be joining Stanford University as a Ph.D. student in Fall 2021!__ -->
 
@@ -69,9 +63,9 @@ Publications
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/>  -->
 
 
-&nbsp; __1. Chromatic Dispersion Manipulation Based on Optical Metasurfaces__<br/>
+&nbsp; __1. Review: Chromatic Dispersion Manipulation Based on Optical Metasurfaces__<br/>
 &nbsp; __Boyan Fu__, Xiujuan Zou, Tao Li, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp;  [*Journal of Harbin Institute of Technology*](../files/2002.pdf) *2020* <br/>
+&nbsp;  [*Journal of Harbin Institute of Technology*](../files/Review_Chromatic Dispersion Manipulation Based on Optical Metasurfaces.pdf) *2020* <br/>
 
 
 
