@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "Nanjing, China"
-title                    : "Tianyue Li"
+title                    : "Boyan Fu"
 title_separator          : "-"
-name                     : &name "Tianyue Li"
-description              : &description "Homepage of Tianyue Li, University of Nanjing"
+name                     : &name "Boyan Fu"
+description              : &description "Homepage of Boyan Fu, University of Nanjing"
 url                      : https://tobeyleonard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tobeyleonardtobeyleonard.github.io"
+repository               : "fuboyanfuboyan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tianyue Li"
-  avatar           : "touxiang.jpg"
+  name             : "Boyan Fu"
+  avatar           : "fuboyan.jpg"
   bio              :
 #   "Undergrad @UofT <br/>
-                      "Ph. D candidate @NJU <br/> "
+                      "Graduate Stu. @NJU <br/> "
   location         : "Nanjing, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=9E7qtmMAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=_th91BcAAAAJ&hl=en"
   email            :
   researchgate     :
   uri              :
@@ -104,14 +104,14 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "/tianyue-li-861b75216/"
-  orcid            : "https://orcid.org/0000-0001-7682-7483"
+  linkedin         : 
+  orcid            : "https://orcid.org/0000-0001-6428-8080"
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "TianyueLi8"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
