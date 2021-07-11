@@ -12,6 +12,8 @@ redirect_from:
 ======
 __Boyan Fu__ received her B.S. degree in *Electronic Science and Technology* from Guangxi University, China, in 2020. She is now a M.S. student majoring in Optics at the [National Laboratory of Solid State Microstructures](https://vlssm.nju.edu.cn/), [School of Physics](https://physics.nju.edu.cn/) at Nanjing University, advised by [*Prof*. Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html). She is now engaged in the research on Nanophotonics based on Metalenses for Hyperspectral imaging.
 
+<br/>
+
 
 <!-- __Update: I will be joining Stanford University as a Ph.D. student in Fall 2021!__ -->
 
@@ -79,7 +81,7 @@ Publications
 &nbsp; Tianyue Li, __Boyan Fu__, Jianzheng Ren, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  [*First Optics Frontier Conference*](../files/SPIE Conference.Multidimensional light field manipulation and applications based on optical metasurface.pdf) *2021* <br/>
 
-<br/>
+
 <!-- <img width="175" align="left" src="https://ErisZhang.github.io/images/comp-dynamics-representative-image.jpg"/> -->
 
 
