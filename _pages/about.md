@@ -21,10 +21,10 @@ Hiya, I'm a doctoral student at the Nanjing University, China, currently majorin
 
 <!-- __Update: I will be joining Stanford University as a Ph.D. student in Fall 2021!__ -->
 
-<br/>
- -->
 
-<!-- Research area
+
+
+<!-- <!-- Research area
 ======
 
 <div>
@@ -61,21 +61,27 @@ Hiya, I'm a doctoral student at the Nanjing University, China, currently majorin
 
 <br/>
 
-<br/> -->
+<br/> --> -->
 
 Publications
 ======
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
-- &nbsp; __Integrating the optical tweezers and spanner onto an individual single-layer metasurface__<br/>
+
+- &nbsp; __1. Chromatic Dispersion Manipulation Based on Optical Metasurfaces__<br/>
+&nbsp; __Boyan Fu__, Xiujuan Zou, Tao Li, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp;  [*Journal of Harbin Institute of Technology*](../files/2002.pdf) *2020* <br/>
+
+
+
+- &nbsp; __2. Integrating the optical tweezers and spanner onto an individual single-layer metasurface__<br/>
 &nbsp; Tianyue Li, Xiaohao Xu, __Boyan Fu__, Shuming Wang, Baojun Li, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  [*Photonics Research*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf) *2021* <br/>
 
 
 
-
-- &nbsp; __Multidimensional light field manipulation and applications based on optical metasurface__<br/>
+- &nbsp; __3. Multidimensional light field manipulation and applications based on optical metasurface__<br/>
 &nbsp; Tianyue Li, __Boyan Fu__, Jianzheng Ren, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  [*First Optics Frontier Conference*](../files/SPIE Conference.Multidimensional light field manipulation and applications based on optical metasurface.pdf) *2021* <br/>
 
