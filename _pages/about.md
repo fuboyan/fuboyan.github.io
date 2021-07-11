@@ -10,7 +10,7 @@ redirect_from:
 
  Biography
 ======
-Boyan Fu received her B.S. degree in Physics from Guangxi University，China, in 2020. She is now a M.S. student majoring in Optics at the National Laboratory of Solid State Microstructures, School of Physics at Nanjing University, advised by [*Prof*. Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html). She is now engaged in the research on Nanophotonics based on Metalenses for Hyperspectral imaging.
+__Boyan Fu__ received her B.S. degree in *Electronic Science and Technology* from Guangxi University, China, in 2020. She is now a M.S. student majoring in Optics at the [National Laboratory of Solid State Microstructures](https://vlssm.nju.edu.cn/), [School of Physics](https://physics.nju.edu.cn/) at Nanjing University, advised by [*Prof*. Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html). She is now engaged in the research on Nanophotonics based on Metalenses for Hyperspectral imaging.
 
 
 <!-- __Update: I will be joining Stanford University as a Ph.D. student in Fall 2021!__ -->
@@ -133,9 +133,13 @@ employed as a structural prototyping tool that facilitates model design and fabr
 
 
 
-Contact
+Address
 ======
-Address: Room 411A, TangZhongying Building, Jinyin Street, Nanjing.
+__Room 411A, TangZhongying Building, Jinyin Street, Nanjing__
 <br/>
-E-mail: MG20220199@smail.nju.edu.cn
+
+E-mail
+======
+__MG20220199@smail.nju.edu.cn__
+<br/>
 
