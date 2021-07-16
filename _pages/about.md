@@ -57,21 +57,21 @@ __Boyan Fu__ received her B.S. degree in *Electronic Science and Technology* fro
 
 Publications
 ======
-<img width="80" align="left"  hspace= 10px src="../images/Achromatic.jpg"/>
+<img width="100" align="left"  hspace= 10px src="../images/Achromatic.jpg"/>
 
 &nbsp; __1. Review: Chromatic Dispersion Manipulation Based on Optical Metasurfaces__<br/>
 &nbsp; __Boyan Fu__, Xiujuan Zou, Tao Li, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  [*Journal of Harbin Institute of Technology*](../files/Review_Chromatic Dispersion Manipulation Based on Optical Metasurfaces.pdf) *2020* <br/>
 <br/>
 
-<img width="80" align="left" hspace= 10px src="../images/OT-OS metasurface.jpg"/>
+<img width="100" align="left" hspace= 10px src="../images/OT-OS metasurface.jpg"/>
 
 &nbsp; __2. Integrating the optical tweezers and spanner onto an individual single-layer metasurface__<br/>
 &nbsp; Tianyue Li, Xiaohao Xu, __Boyan Fu__, Shuming Wang, Baojun Li, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  [*Photonics Research*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf) *2021* <br/>
 <br/>
 
-<img width="80" align="left" hspace= 10px src="../images/multidimentional light-field manipulation.png"/>
+<img width="100" align="left" hspace= 10px src="../images/multidimentional light-field manipulation.png"/>
 
 &nbsp; __3. Multidimensional light field manipulation and applications based on optical metasurface__<br/>
 &nbsp; Tianyue Li, __Boyan Fu__, Jianzheng Ren, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
