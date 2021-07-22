@@ -57,9 +57,6 @@ __Boyan Fu__ received her B.S. degree in *Electronic Science and Technology* fro
 
 Publications
 ======
-
-<br/>
-
 <img width="100" align="left"  hspace= 10px src="../images/Achromatic.jpg"/>
 
 &nbsp; __1. Review: Chromatic Dispersion Manipulation Based on Optical Metasurfaces__<br/>
