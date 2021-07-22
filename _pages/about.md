@@ -74,14 +74,11 @@ Publications
 &nbsp; Tianyue Li, Xiaohao Xu, __Boyan Fu__, Shuming Wang, Baojun Li, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  [*Photonics Research*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf) *2021* <br/>
 
-<br/>
+
 
 <img width="100" align="left" hspace= 10px src="../images/multidimentional light-field manipulation.png"/>
 
 &nbsp; __3. Multidimensional light field manipulation and applications based on optical metasurface__<br/>
-
-<br/>
-
 &nbsp; Tianyue Li, __Boyan Fu__, Jianzheng Ren, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  [*First Optics Frontier Conference*](../files/SPIE Conference.Multidimensional light field manipulation and applications based on optical metasurface.pdf) *2021* <br/>
 
