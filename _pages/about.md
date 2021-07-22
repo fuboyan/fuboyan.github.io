@@ -57,6 +57,9 @@ __Boyan Fu__ received her B.S. degree in *Electronic Science and Technology* fro
 
 Publications
 ======
+
+<br/>
+
 <img width="100" align="left"  hspace= 10px src="../images/Achromatic.jpg"/>
 
 &nbsp; __1. Review: Chromatic Dispersion Manipulation Based on Optical Metasurfaces__<br/>
@@ -76,9 +79,13 @@ Publications
 <img width="100" align="left" hspace= 10px src="../images/multidimentional light-field manipulation.png"/>
 
 &nbsp; __3. Multidimensional light field manipulation and applications based on optical metasurface__<br/>
+
+<br/>
+
 &nbsp; Tianyue Li, __Boyan Fu__, Jianzheng Ren, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  [*First Optics Frontier Conference*](../files/SPIE Conference.Multidimensional light field manipulation and applications based on optical metasurface.pdf) *2021* <br/>
 
+<br/>
 <!-- <img width="175" align="left" src="https://ErisZhang.github.io/images/comp-dynamics-representative-image.jpg"/> -->
 
 
