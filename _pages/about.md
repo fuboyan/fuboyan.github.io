@@ -95,6 +95,7 @@ Publications
 &nbsp;  [*Journal of Harbin Institute of Technology*](../files/Review_Chromatic Dispersion Manipulation Based on Optical Metasurfaces.pdf) *2020* <br/>
 <!-- <img width="175" align="left" src="https://ErisZhang.github.io/images/comp-dynamics-representative-image.jpg"/> -->
 
+<br/>
 
 
 <!-- Industry Experience
@@ -148,11 +149,11 @@ employed as a structural prototyping tool that facilitates model design and fabr
 
 Address
 ======
-__Room 411A, TangZhongying Building, Jinyin Street, Nanjing__
+Room 411A, TangZhongying Building, Jinyin Street, Nanjing.
 <br/>
 
 E-mail
 ======
-__MG20220199@smail.nju.edu.cn__
+857059090@qq.com
 <br/>
 
