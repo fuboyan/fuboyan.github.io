@@ -63,9 +63,6 @@ Publications
 &nbsp; __Boyan Fu__, Tianyue Li, Quan yuan, Xiujuan Zou, Ruoyu Lin, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Coming soon 2022* <br/>
 
-<br/>
-<br/>
-
 <img width="100" align="left" hspace= 10px src="../images/wavelength-controlled.jpg"/>
 
 &nbsp; __2. Wavelength-controlled multifunctional transmissive metalenses__<br/>
@@ -89,7 +86,6 @@ Publications
 &nbsp; Tianyue Li, __Boyan Fu__, Jianzheng Ren, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  [*First Optics Frontier Conference*](../files/SPIE Conference.Multidimensional light field manipulation and applications based on optical metasurface.pdf) *2021* <br/>
 
-<br/>
 
 <img width="100" align="left"  hspace= 10px src="../images/Achromatic.jpg"/>
 
