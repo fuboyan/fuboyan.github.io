@@ -68,7 +68,7 @@ Publications
 
 &nbsp; __Steerable chromatic dispersive metalenses in dual bands__<br/>
 &nbsp; __Boyan Fu__, Tianyue Li, Xiujuan Zou, Jianzheng Ren, Quan yuan, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; *Journal of Physics D: Applied Physics 2022* <br/>
+&nbsp; [*Journal of Physics D: Applied Physics*](../files/Steerable chromatic dispersive metalenses in dual bands.pdf) *2022* <br/>
 
 <img width="100" align="left"  hspace= 10px src="../images/Achromatic.jpg"/>
 
