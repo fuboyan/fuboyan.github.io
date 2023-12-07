@@ -57,44 +57,50 @@ __Boyan Fu__ received her B.S. degree in *Electronic Science and Technology* fro
 
 Publications
 ======
+
 <img width="100" align="left" hspace= 10px src="../images/Inhomogeneous Chromatic dispersion.jpg"/>
 
-&nbsp; __1. Inhomogeneous chromatic dispersion manipulation based on supercell metalenses__<br/>
-&nbsp; __Boyan Fu__, Tianyue Li, Quan yuan, Xiujuan Zou, Ruoyu Lin, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; *Coming soon 2022* <br/>
+&nbsp; __Monocular polarimetric metalens for ultracompact snapshot stereo-imaging__<br/>
+&nbsp; __Boyan Fu__, Xuxi Zhou, Tianyue Li, Hao Zhu, Shiyu Zheng, Yifan Zhou, Shuming Wang, Xun Cao, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp; *Forthcoming 2024* <br/>
+
+<img width="100" align="left" hspace= 10px src="../images/Inhomogeneous Chromatic dispersion.jpg"/>
+
+&nbsp; __Steerable chromatic dispersive metalenses in dual bands__<br/>
+&nbsp; __Boyan Fu__, Tianyue Li, Xiujuan Zou, Jianzheng Ren, Quan yuan, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp; *Journal of Physics D: Applied Physics 2022* <br/>
+
+<img width="100" align="left"  hspace= 10px src="../images/Achromatic.jpg"/>
+
+&nbsp; __Review: Chromatic Dispersion Manipulation Based on Optical Metasurfaces__<br/>
+&nbsp; __Boyan Fu__, Xiujuan Zou, Tao Li, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp;  [*Journal of Harbin Institute of Technology*](../files/Review_Chromatic Dispersion Manipulation Based on Optical Metasurfaces.pdf) *2020* <br/>
+<!-- <img width="175" align="left" src="https://ErisZhang.github.io/images/comp-dynamics-representative-image.jpg"/> -->
+<br/>
 
 <img width="100" align="left" hspace= 10px src="../images/wavelength-controlled.jpg"/>
 
-&nbsp; __2. Wavelength-controlled multifunctional transmissive metalenses__<br/>
+&nbsp; __Wavelength-dependent multifunctional metalens devices via genetic optimization__<br/>
 &nbsp; Jianzheng Ren, Tianyue Li, __Boyan Fu__, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Optical Materials Express 2022* <br/>
 
 <br/>
+
+<img width="100" align="left" hspace= 10px src="../images/OT-OS metasurface.jpg"/>
+
+&nbsp; __Integrating the optical tweezers and spanner onto an individual single-layer metasurface__<br/>
+&nbsp; Tianyue Li, Xiaohao Xu, __Boyan Fu__, Shuming Wang, Baojun Li, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp;  [*Photonics Research*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf) *2021* <br/>
+
 <br/>
 
 <img width="100" align="left" hspace= 10px src="../images/OT-OS metasurface.jpg"/>
 
-&nbsp; __3. Integrating the optical tweezers and spanner onto an individual single-layer metasurface__<br/>
-&nbsp; Tianyue Li, Xiaohao Xu, __Boyan Fu__, Shuming Wang, Baojun Li, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp;  [*Photonics Research*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf) *2021* <br/>
-
-
-
-<img width="100" align="left" hspace= 10px src="../images/multidimentional light-field manipulation.png"/>
-
-&nbsp; __4. Multidimensional light field manipulation and applications based on optical metasurface__<br/>
-&nbsp; Tianyue Li, __Boyan Fu__, Jianzheng Ren, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp;  [*First Optics Frontier Conference*](../files/SPIE Conference.Multidimensional light field manipulation and applications based on optical metasurface.pdf) *2021* <br/>
+&nbsp; __Metasurface-based polarization color routers__<br/>
+&nbsp; Xiujuan Zou, Guangxing Gong, Yu Lin, __Boyan Fu__, Shuming Wang, Shining Zhu, Zhenlin Wang. <br/>
+&nbsp;  [*Optics and Lasers in Engineering*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf) 163, 107472 (2023). <br/>
 
 <br/>
-
-<img width="100" align="left"  hspace= 10px src="../images/Achromatic.jpg"/>
-
-&nbsp; __5. Review: Chromatic Dispersion Manipulation Based on Optical Metasurfaces__<br/>
-&nbsp; __Boyan Fu__, Xiujuan Zou, Tao Li, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp;  [*Journal of Harbin Institute of Technology*](../files/Review_Chromatic Dispersion Manipulation Based on Optical Metasurfaces.pdf) *2020* <br/>
-<!-- <img width="175" align="left" src="https://ErisZhang.github.io/images/comp-dynamics-representative-image.jpg"/> -->
-
 <br/>
 
 
@@ -154,6 +160,6 @@ Room 411A, TangZhongying Building, Jinyin Street, Nanjing.
 
 E-mail
 ======
-857059090@qq.com
+byfu@smail.nju.edu.cn
 <br/>
 
