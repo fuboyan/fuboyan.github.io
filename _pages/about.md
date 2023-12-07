@@ -83,7 +83,7 @@ Publications
 
 &nbsp; __Wavelength-dependent multifunctional metalens devices via genetic optimization__<br/>
 &nbsp; Jianzheng Ren, Tianyue Li, __Boyan Fu__, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; *Optical Materials Express*(../files/OME.Wavelength-dependent multifunctional metalens devices via genetic optimization.pdf) *2022* <br/>
+&nbsp; *Optical Materials Express*(../files/OME.pdf) *2022* <br/>
 <br/>
 
 
