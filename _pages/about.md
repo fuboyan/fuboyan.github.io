@@ -64,7 +64,7 @@ Publications
 &nbsp; __Boyan Fu__, Xuxi Zhou, Tianyue Li, Hao Zhu, Shiyu Zheng, Yifan Zhou, Shuming Wang, Xun Cao, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Forthcoming 2024* <br/>
 
-<img width="100" align="left" hspace= 10px src="../images/Inhomogeneous Chromatic dispersion.jpg"/>
+<img width="100" align="left" hspace= 10px src="../images/MPSII.png.jpg"/>
 
 &nbsp; __Steerable chromatic dispersive metalenses in dual bands__<br/>
 &nbsp; __Boyan Fu__, Tianyue Li, Xiujuan Zou, Jianzheng Ren, Quan yuan, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
