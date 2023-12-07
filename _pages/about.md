@@ -77,16 +77,15 @@ Publications
 &nbsp; __Review: Chromatic Dispersion Manipulation Based on Optical Metasurfaces__<br/>
 &nbsp; __Boyan Fu__, Xiujuan Zou, Tao Li, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  [*Journal of Harbin Institute of Technology*](../files/Review_Chromatic Dispersion Manipulation Based on Optical Metasurfaces.pdf) *2020* <br/>
-<!-- <img width="175" align="left" src="https://ErisZhang.github.io/images/comp-dynamics-representative-image.jpg"/> -->
 <br/>
 
 <img width="100" align="left" hspace= 10px src="../images/wavelength-controlled.jpg"/>
 
 &nbsp; __Wavelength-dependent multifunctional metalens devices via genetic optimization__<br/>
 &nbsp; Jianzheng Ren, Tianyue Li, __Boyan Fu__, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; *Optical Materials Express*(../files/OME.Wavelength-dependent multifunctional metalens devices via genetic optimization..pdf) *2022* <br/>
-
+&nbsp; *Optical Materials Express*(../files/OME.Wavelength-dependent multifunctional metalens devices via genetic optimization.pdf) *2022* <br/>
 <br/>
+
 
 <img width="100" align="left" hspace= 10px src="../images/OT-OS metasurface.jpg"/>
 
