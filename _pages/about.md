@@ -58,13 +58,13 @@ __Boyan Fu__ received her B.S. degree in *Electronic Science and Technology* fro
 Publications
 ======
 
-<img width="100" align="left" hspace= 10px src="../images/Inhomogeneous Chromatic dispersion.jpg"/>
+<img width="100" align="left" hspace= 10px src="../images/MPSII.png"/>
 
 &nbsp; __Monocular polarimetric metalens for ultracompact snapshot stereo-imaging__<br/>
 &nbsp; __Boyan Fu__, Xuxi Zhou, Tianyue Li, Hao Zhu, Shiyu Zheng, Yifan Zhou, Shuming Wang, Xun Cao, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Forthcoming 2024* <br/>
 
-<img width="100" align="left" hspace= 10px src="../images/MPSII.png.jpg"/>
+<img width="100" align="left" hspace= 10px src="../images/Inhomogeneous Chromatic dispersion.jpg"/>
 
 &nbsp; __Steerable chromatic dispersive metalenses in dual bands__<br/>
 &nbsp; __Boyan Fu__, Tianyue Li, Xiujuan Zou, Jianzheng Ren, Quan yuan, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
@@ -94,7 +94,7 @@ Publications
 
 <br/>
 
-<img width="100" align="left" hspace= 10px src="../images/OT-OS metasurface.jpg"/>
+<img width="100" align="left" hspace= 10px src="../images/polar-color-router.png"/>
 
 &nbsp; __Metasurface-based polarization color routers__<br/>
 &nbsp; Xiujuan Zou, Guangxing Gong, Yu Lin, __Boyan Fu__, Shuming Wang, Shining Zhu, Zhenlin Wang. <br/>
