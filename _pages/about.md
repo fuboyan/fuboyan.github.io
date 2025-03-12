@@ -62,7 +62,7 @@ Publications
 
 &nbsp; __Miniaturized high-efficiency snapshot polarimetric stereoscopic imaging__<br/>
 &nbsp; __Boyan Fu†__, Xuxi Zhou†, Tianyue Li†, Hao Zhu, Zhen Liu, Shiyu Zheng, Yifan Zhou, Yiwan Yu, Xun Cao, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; [*Optica*](https://doi.org/10.1364/OPTICA.549864) 12(3), 391-398, 2025 <br/>
+&nbsp; [*Optica*](https://doi.org/10.1364/OPTICA.549864), 12(3), 391-398, 2025 <br/>
 <br/>
 
 <img width="100" align="left" hspace= 10px src="../images/LPR2024.png"/>
@@ -72,26 +72,32 @@ Publications
 &nbsp; [*Laser & Photonics Reviews*](https://onlinelibrary.wiley.com/doi/10.1002/lpor.202301372), 2301372, 2024 <br/>
 <br/>
 
+<img width="100" align="left" hspace= 10px src="../images/LPR2024.png"/>
+
+&nbsp; __Advanced Metasurface Imaging and Display Based on Multidimensional Light Field Manipulation__<br/>
+&nbsp; Tianyue Li†, Yun Chen†, __Boyan Fu†__, Mengjiao Liu, Jinwen Wang, Hong Gao, Shuming Wang, Shining Zhu. <br/>
+&nbsp; [*Acta Optica Sinica*](https://www.opticsjournal.net/Articles/OJc304d73b82b60fa7/FullText), 44(14), 1400001, 2024 <br/>
+<br/>
 
 <img width="100" align="left" hspace= 10px src="../images/Inhomogeneous Chromatic dispersion.jpg"/>
 
 &nbsp; __Steerable chromatic dispersive metalenses in dual bands__<br/>
 &nbsp; __Boyan Fu__, Tianyue Li, Xiujuan Zou, Jianzheng Ren, Quan yuan, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; [*Journal of Physics D: Applied Physics*](../files/Steerable chromatic dispersive metalenses in dual bands.pdf) 55, 255105, 2022 <br/>
+&nbsp; [*Journal of Physics D: Applied Physics*](../files/Steerable chromatic dispersive metalenses in dual bands.pdf), 55, 255105, 2022 <br/>
 <br/>
 
 <img width="100" align="left"  hspace= 10px src="../images/Achromatic.jpg"/>
 
 &nbsp; __Review: Chromatic Dispersion Manipulation Based on Optical Metasurfaces__<br/>
 &nbsp; __Boyan Fu__, Xiujuan Zou, Tao Li, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp;  [*Journal of Harbin Institute of Technology*](../files/Review_Chromatic Dispersion Manipulation Based on Optical Metasurfaces.pdf) *2020* <br/>
+&nbsp;  [*Journal of Harbin Institute of Technology*](../files/Review_Chromatic Dispersion Manipulation Based on Optical Metasurfaces.pdf), 27(3), 1-19, 2020 <br/>
 <br/>
 
 <img width="100" align="left" hspace= 10px src="../images/wavelength-controlled.jpg"/>
 
 &nbsp; __Wavelength-dependent multifunctional metalens devices via genetic optimization__<br/>
 &nbsp; Jianzheng Ren, Tianyue Li, __Boyan Fu__, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; [*Optical Materials Express*](../files/OME.pdf) *2022* <br/>
+&nbsp; [*Optical Materials Express*](../files/OME.pdf), 11(11), 3908-3916, 2021 <br/>
 <br/><br/>
 
 
@@ -99,7 +105,7 @@ Publications
 
 &nbsp; __Integrating the optical tweezers and spanner onto an individual single-layer metasurface__<br/>
 &nbsp; Tianyue Li, Xiaohao Xu, __Boyan Fu__, Shuming Wang, Baojun Li, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp;  [*Photonics Research*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf) *2021* <br/>
+&nbsp;  [*Photonics Research*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf), 9(6), 1062-1068, 2021 <br/>
 
 <br/>
 
@@ -107,7 +113,7 @@ Publications
 
 &nbsp; __Metasurface-based polarization color routers__<br/>
 &nbsp; Xiujuan Zou, Guangxing Gong, Yu Lin, __Boyan Fu__, Shuming Wang, Shining Zhu, Zhenlin Wang. <br/>
-&nbsp;  [*Optics and Lasers in Engineering*](../files/Metasurface based polarization color routers.pdf) 163, 107472 (2023). <br/>
+&nbsp;  [*Optics and Lasers in Engineering*](../files/Metasurface based polarization color routers.pdf), 163, 107472, 2023. <br/>
 
 <br/>
 <br/>
