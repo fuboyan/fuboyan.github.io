@@ -72,10 +72,10 @@ Publications
 &nbsp; [*Laser & Photonics Reviews*](https://onlinelibrary.wiley.com/doi/10.1002/lpor.202301372), 2301372, 2024 <br/>
 <br/>
 
-<img width="100" align="left" hspace= 10px src="../images/LPR2024.png"/>
+<img width="100" align="left" hspace= 10px src="../images/AOS.png"/>
 
 &nbsp; __Advanced Metasurface Imaging and Display Based on Multidimensional Light Field Manipulation__<br/>
-&nbsp; Tianyue Li†, Yun Chen†, __Boyan Fu†__, Mengjiao Liu, Jinwen Wang, Hong Gao, Shuming Wang, Shining Zhu. <br/>
+&nbsp; __Boyan Fu__, Qianhui Bi, Shiyu Zheng, Yujuan Peng, Shuming Wang, Xun Cao, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; [*Acta Optica Sinica*](https://www.opticsjournal.net/Articles/OJc304d73b82b60fa7/FullText), 44(14), 1400001, 2024 <br/>
 <br/>
 
