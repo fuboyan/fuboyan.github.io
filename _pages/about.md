@@ -80,7 +80,7 @@ Publications
 &nbsp; [*Journal of Physics D: Applied Physics*](../files/Steerable chromatic dispersive metalenses in dual bands.pdf) 55, 255105, 2022 <br/>
 <br/>
 
-<img width="100" align="left"  hspace= 10px src="../images/Achromatic.tif"/>
+<img width="100" align="left"  hspace= 10px src="../images/Achromatic.jpg"/>
 
 &nbsp; __Review: Chromatic Dispersion Manipulation Based on Optical Metasurfaces__<br/>
 &nbsp; __Boyan Fu__, Xiujuan Zou, Tao Li, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
