@@ -62,15 +62,22 @@ Publications
 
 &nbsp; __Miniaturized high-efficiency snapshot polarimetric stereoscopic imaging__<br/>
 &nbsp; __Boyan Fu†__, Xuxi Zhou†, Tianyue Li†, Hao Zhu, Zhen Liu, Shiyu Zheng, Yifan Zhou, Yiwan Yu, Xun Cao, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; [*Optica*]((https://doi.org/10.1364/OPTICA.549864)) *2025* <br/>
-
-
+&nbsp; [*Optica*](https://doi.org/10.1364/OPTICA.549864) 12(3), 391-398, 2025 <br/>
 <br/>
+
+<img width="100" align="left" hspace= 10px src="../images/LPR2024.png"/>
+
+&nbsp; __Spin-selective tri-functional metasurfaces for deforming versatile non-diffractive beams along the optical trajectory__<br/>
+&nbsp; Tianyue Li†, Yun Chen†, __Boyan Fu†__, Mengjiao Liu, Jinwen Wang, Hong Gao, Shuming Wang, Shining Zhu. <br/>
+&nbsp; [*Laser & Photonics Reviews*](https://onlinelibrary.wiley.com/doi/10.1002/lpor.202301372), 2301372, 2024 <br/>
+<br/>
+
+
 <img width="100" align="left" hspace= 10px src="../images/Inhomogeneous Chromatic dispersion.jpg"/>
 
 &nbsp; __Steerable chromatic dispersive metalenses in dual bands__<br/>
 &nbsp; __Boyan Fu__, Tianyue Li, Xiujuan Zou, Jianzheng Ren, Quan yuan, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; [*Journal of Physics D: Applied Physics*](../files/Steerable chromatic dispersive metalenses in dual bands.pdf) *2022* <br/>
+&nbsp; [*Journal of Physics D: Applied Physics*](../files/Steerable chromatic dispersive metalenses in dual bands.pdf) 55, 255105, 2022 <br/>
 <br/>
 
 <img width="100" align="left"  hspace= 10px src="../images/Achromatic.tif"/>
