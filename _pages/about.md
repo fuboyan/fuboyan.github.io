@@ -10,7 +10,7 @@ redirect_from:
 
  Biography
 ======
-__Boyan Fu__ received her B.S. degree in *Electronic Science and Technology* from Guangxi University, China, in 2020. She is now a M.S. student majoring in Optics at the [National Laboratory of Solid State Microstructures](https://vlssm.nju.edu.cn/), [School of Physics](https://physics.nju.edu.cn/) at Nanjing University, advised by [*Prof*. Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html). She is now engaged in the research on Nanophotonics based on Metalenses for Hyperspectral imaging.
+__Boyan Fu__ is now a Ph. D candidate majoring in Nanophotonics at the [National Laboratory of Solid State Microstructures](https://vlssm.nju.edu.cn/), [School of Physics](https://physics.nju.edu.cn/) at Nanjing University, advised by [*Prof*. Shining Zhu](https://physics.nju.edu.cn/szdw/qbmd/20240321/i262079.html) and [*Prof*. Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html). She is now engaged in the research on computational metalens imaging based on multidimensional light field manipulation.
 
 
 <!-- __Update: I will be joining Stanford University as a Ph.D. student in Fall 2021!__ -->
@@ -60,9 +60,10 @@ Publications
 
 <img width="100" align="left" hspace= 10px src="../images/MPSII.png"/>
 
-&nbsp; __Monocular polarimetric metalens for ultracompact snapshot stereo-imaging__<br/>
-&nbsp; __Boyan Fu__, Xuxi Zhou, Tianyue Li, Hao Zhu, Shiyu Zheng, Yifan Zhou, Shuming Wang, Xun Cao, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; *Forthcoming 2024* <br/>
+&nbsp; __Miniaturized high-efficiency snapshot polarimetric stereoscopic imaging__<br/>
+&nbsp; __Boyan Fu†__, Xuxi Zhou†, Tianyue Li†, Hao Zhu, Zhen Liu, Shiyu Zheng, Yifan Zhou, Yiwan Yu, Xun Cao, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp; [*Optica*]((https://doi.org/10.1364/OPTICA.549864)) *2025* <br/>
+
 
 <br/>
 <img width="100" align="left" hspace= 10px src="../images/Inhomogeneous Chromatic dispersion.jpg"/>
