@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Nanjing, China"
+locale                   : "Hong Kong"
 title                    : "Boyan Fu"
 title_separator          : "-"
 name                     : &name "Boyan Fu"
-description              : &description "Homepage of Boyan Fu, University of Nanjing"
+description              : &description "Homepage of Boyan Fu, University of Hong Kong"
 url                      : https://fuboyan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fuboyanfuboyan.github.io"
@@ -84,8 +84,8 @@ author:
   avatar           : "fuboyan.jpg"
   bio              :
 #   "Undergrad @UofT <br/>
-                      "PhD candidate @NJU <br/> "
-  location         : "Gulou, NJ"
+                      "Postdoc @ HKU <br/> "
+  location         : "Hong Kong"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=_th91BcAAAAJ&hl=en"
