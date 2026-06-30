@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 Biography
+======
+
 **Boyan Fu** is currently a Postdoctoral Research Fellow at the University of Hong Kong, working in [Prof. Edmund Y. Lam's group](https://www.eee.hku.hk/~elam/). Her research focuses on computational optical imaging, computational holographic display, and computational vision. By bridging these areas with nanophotonics, she aims to advance integrated chip-scale imaging science. She obtained her Ph.D. in Optics from Nanjing University, where she was advised by [Prof. Shining Zhu](https://physics.nju.edu.cn/szdw/qbmd/20240321/i262079.html).
 
 In addition to her current work, she has previously conducted research on full‑Stokes metalens‑based real‑time 3D imaging, multidimensional light‑field metalens cameras, and metasurface‑based optical micromanipulation and dispersion engineering. Her representative publications include:
