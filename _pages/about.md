@@ -8,9 +8,16 @@ redirect_from:
   - /about.html
 ---
 
- Biography
-======
-__Boyan Fu__ is now a Ph. D candidate majoring in Nanophotonics at the [National Laboratory of Solid State Microstructures](https://vlssm.nju.edu.cn/), [School of Physics](https://physics.nju.edu.cn/) at Nanjing University, advised by [*Prof*. Shining Zhu](https://physics.nju.edu.cn/szdw/qbmd/20240321/i262079.html) and [*Prof*. Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html). She is now engaged in the research on computational metalens imaging based on multidimensional light field manipulation.
+Biography
+**Boyan Fu** is currently a Postdoctoral Research Fellow at the University of Hong Kong, working in [Prof. Edmund Y. Lam's group](https://www.eee.hku.hk/~elam/). Her research focuses on computational optical imaging, computational holographic display, and computational vision. By bridging these areas with nanophotonics, she aims to advance integrated chip-scale imaging science. She obtained her Ph.D. in Optics from Nanjing University, where she was advised by [Prof. Shining Zhu](https://physics.nju.edu.cn/szdw/qbmd/20240321/i262079.html).
+
+In addition to her current work, she has previously conducted research on full‑Stokes metalens‑based real‑time 3D imaging, multidimensional light‑field metalens cameras, and metasurface‑based optical micromanipulation and dispersion engineering. Her representative publications include:
+
+- [*Optica* **12**(3), 391‑398 (2025)](https://doi.org/10.1364/OPTICA.550918)
+- [*Science Advances* **12**(15), eaed5302 (2026)](https://www.science.org/doi/full/10.1126/sciadv.aed5302)
+- [*Journal of Physics D: Applied Physics* **55**, 255105 (2022)](https://doi.org/10.1088/1361-6463/ac59fb)
+- [*Laser & Photonics Reviews* **18**, 2301372 (2024)](https://doi.org/10.1002/lpor.202301372)
+- [*Acta Optica Sinica* **44**(14), 1400001 (2024)](https://doi.org/10.3788/AOS232006)
 
 
 <!-- __Update: I will be joining Stanford University as a Ph.D. student in Fall 2021!__ -->
