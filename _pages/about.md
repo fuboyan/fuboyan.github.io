@@ -186,6 +186,6 @@ The University of Hong Kong, Pokfulam, Hong Kong.
 
 E-mail
 ======
-byfu@smail.nju.edu.cn
+byfu@hku.hk
 <br/>
 
