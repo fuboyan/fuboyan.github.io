@@ -13,7 +13,7 @@ Biography
 
 **Boyan Fu** is currently a Postdoctoral Research Fellow at the Department of Electrical and Computer Engineering (ECE Dept), the University of Hong Kong (HKU), working in [Prof. Edmund Y. Lam's group](https://ece.hku.hk/people/elam/). Her research focuses on computational optical imaging, computational holographic display, and computational vision. By bridging these areas with nanophotonics, she aims to advance integrated chip-scale imaging science. She obtained her Ph.D. in Optics from Nanjing University, where she was advised by [Prof. Shining Zhu](https://physics.nju.edu.cn/szdw/qbmd/20240321/i262079.html).
 
-In addition to her current work, she has previously conducted research on full‑Stokes metalens‑based real‑time 3D imaging, multidimensional light‑field metalens cameras, and metasurface‑based optical micromanipulation and dispersion engineering. Her representative publications include:
+In addition to her current work, she has previously conducted research on full‑Stokes metalens‑based real‑time 3D imaging, multidimensional light‑field metalens cameras, and metasurface‑based optical micromanipulation and dispersion engineering. Her __representative publications__ include:
 
 - [*Optica* **12**(3), 391‑398 (2025)](https://doi.org/10.1364/OPTICA.550918)
 - [*Science Advances* **12**(15), eaed5302 (2026)](https://www.science.org/doi/full/10.1126/sciadv.aed5302)
@@ -25,7 +25,7 @@ In addition to her current work, she has previously conducted research on full�
 Full publication lists
 ======
 &nbsp; __Scalable generalized meta-spanners enabling parallel multitasking optical manipulation__<br/>
-&nbsp; Tianyue Li†, Wenyu Gao†,__Boyan Fu†__, Tianhua Shao, Yuchao Fu, Siarhei Zavatski, Jeeban Kumar Nayak, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu, Olivier J. F. Martin, C. T. Chan. <br/>
+&nbsp; Tianyue Li†, Wenyu Gao†, __Boyan Fu†__, Tianhua Shao, Yuchao Fu, Siarhei Zavatski, Jeeban Kumar Nayak, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu, Olivier J. F. Martin, C. T. Chan. <br/>
 &nbsp; [*Science Advances*](https://www.science.org/doi/full/10.1126/sciadv.aed5302), 12(15), eaed5302, 2026 <br/>
 <br/>
 
