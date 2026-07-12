@@ -41,7 +41,7 @@ Full publication lists
 
 &nbsp; __Metasurface-assisted multimodal quantum imaging__<br/>
 &nbsp; Yifan Zhou, Xiaoshu Zhu, Tianyue Li, Zhou Zhou, Qianhui Bi, Jun Liu, Jian Chen, __Boyan Fu__, Juanzi He, Xinyang Feng, Xiaojing Feng, Xingyu Liu, Qianjin Wang, Shuming Wang, Zhenlin Wang, Cheng-Wei Qiu, Shining Zhu. <br/>
-&nbsp; [*PNAS*](https://www.pnas.org/doi/10.1073/pnas.2500760122#tab-contributors), 12(3), 391-398, 2025 <br/>
+&nbsp; [*PNAS*](https://www.pnas.org/doi/10.1073/pnas.2500760122#tab-contributors), 122 (18), e2500760122, 2025 <br/>
 <br/>
 
 
