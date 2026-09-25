@@ -29,6 +29,11 @@ Full publication lists
 &nbsp; [*Science Advances*](https://www.science.org/doi/full/10.1126/sciadv.aed5302), 12(15), eaed5302, 2026 <br/>
 <br/>
 
+&nbsp; __Rapid inverse design of large-scale freeform meta-optics with the neighborhood-attention transformer__<br/>
+&nbsp; Shiqi Kuang, Zhi Sun, __Boyan Fu__, Xue Yun, Minru He, Tianyu Zhao, Shaowei Wang, Tianhua Shao, Geze Gao, Yunlai Fu, Yansheng Liang\*, Tianyue Li\*, Shuming Wang\*, Ming Lei\*. <br/>
+&nbsp; *PhotoniX*, in press, 2026 <br/>
+<br/>
+
 &nbsp; __Metalens‐enabled twisted chromatic dispersion__<br/>
 &nbsp; Shiyu Zheng, __Boyan Fu__, Hong Zhang, Shuming Wang. <br/>
 &nbsp; [*Advanced Physics Research*](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/apxr.202600003), 5(5), e00003, 2026 <br/>
